@@ -3,4 +3,4 @@
 - proveďte úkoly podle zadání v jednotlivých složkách
   - výsledky úkolů nechte v odpovídajících složkách
 - po skončení soubory zazipujte a pošlete na e-mail vilem.lipold@studentagency.cz
-- otázky Gitu budeme řešit osobně
+- otázky Gitu budeme případně řešit osobně

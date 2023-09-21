@@ -4,7 +4,7 @@ const starobrnoMedium = {
   alc: 4.7,
   drunkedMe: (pieces) => pieces > 4,
   onStock: true,
-  ingredient: {
+  ingredients: {
     'chmel': 0.2,
     'oxidVodicity': 0.99,
     'slad': 0.5,
