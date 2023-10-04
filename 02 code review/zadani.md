@@ -1,2 +1,2 @@
 # Zadání
-Formou jednořádkových poznámek (za reviewovanýým řádkem) proveďte code review v souborech v této složce.
+Formou jednořádkových poznámek (za reviewovaným řádkem) proveďte code review v souborech v této složce.

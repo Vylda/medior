@@ -1,4 +1,4 @@
-# Zadání Medior v Regijetu
+# Zadání Medior v Regiojetu
 - Stáhněte si zde uvedený repozitář
 - proveďte úkoly podle zadání v jednotlivých složkách
   - výsledky úkolů nechte v odpovídajících složkách
